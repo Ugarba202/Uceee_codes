@@ -31,17 +31,27 @@ I care deeply about **shipping real products**, not just demos.
 
 ## 🛠️ Languages & Tools
 
-**Mobile:**  
-`Flutter` `Dart`
+### 📱 Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
 
-**Backend:**  
-`Python` `FastAPI` `PostgreSQL` `MongoDB`
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mongodb" />
+</p>
 
-**Bitcoin & Systems:**  
-`Bitcoin` `Lightning Network` `Rust`
+### ₿ Bitcoin & Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=bitcoin,rust" />
+  <img src="https://cryptologos.cc/logos/lightning-network-lightning-logo.svg" height="48" />
+</p>
 
-**Infra & Tooling:**  
-`Git` `Docker` `REST APIs`
+### 🧰 Infra & Tooling
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker" />
+</p>
+
 
 ---
 
